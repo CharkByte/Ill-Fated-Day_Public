@@ -1,2 +1,2 @@
 # IllFatedDay
-A dark medieval fantasy 3D game developed for mobile. Targeting Android and IOS.
+A medieval dark fantasy 3D game developed for mobile. Targeting Android and IOS.
