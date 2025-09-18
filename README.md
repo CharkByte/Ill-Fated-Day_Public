@@ -31,22 +31,22 @@ Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely p
 
 - Core gameplay features:
   - Player movement and controls
-  - Combat system
-  - Variable Difficulty Level
-  - Ever changing gameplay
+  - 40 unique weapons and 10 combat spell gameplay
+  - Variable "Easy", "Normal", "Hard", "Challenge" difficulty levels
+  - Auto generated maze levels
+  - Random status effect gameplay loop
     
 - Mobile-specific optimizations:
   - Texture atlases
   - LODs and batching
   - Frame rate management
-- Unique systems or mechanics demonstrating problem-solving
 
 ---
 
 ## Development Notes / Workflow
 
 - Built using: Unreal Engine 5 
-- Shader setup and optimization for mobile:
+- Shader setup and optimization for mobile: Low settings and low draw distance
 - Custom scripts: 
 ---
 
