@@ -11,7 +11,7 @@
 **Art Style:** Low-poly 3D, Retro  
 **Game Description:**  
 
-Ill Fated Day is a low poly retro mobile game that takes place in a dark gothic fantasy land. 
+Ill Fated Day is a low poly retro mobile game that takes place in a dark gothic fantasy world. 
 
 Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely powerful fire mage who has stolen a deadly artifact.
 
