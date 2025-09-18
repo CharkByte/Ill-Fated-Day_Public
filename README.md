@@ -14,9 +14,9 @@
 **Developer:** Charkbyte                 
 **Game Description:**  
 
-Ill Fated Day is a solo developed low poly retro mobile game that takes place in a dark gothic fantasy world. 
+Ill Fated Day is a solo developed retro mobile game that takes place in a dark gothic fantasy world. 
 
-Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely powerful fire mage who has stolen a deadly artifact.
+Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an extremely powerful fire mage that has stolen a deadly artifact.
 
 ---
 
@@ -25,9 +25,9 @@ Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely p
 
 ### Unreal Engine & Blender Workflow Screenshots
 <img width="1030" height="456" alt="Player3DmodelProcess" src="https://github.com/user-attachments/assets/3e902395-f696-45b8-8f8d-b7a3a0ffef45" />
-
-<img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
-
+<p align="center">
+  <img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
+</p>
 ---
 
 ## Features & Mechanics
@@ -40,7 +40,9 @@ Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely p
   - Random player status effect gameplay loop
     
 - Mobile-specific optimizations and Layout:
-  - <img width="624" height="659" alt="Vertical Wireframe Mockup Git" src="https://github.com/user-attachments/assets/3d0528b3-77ab-4b32-bd05-ddf266ee8b45" />
+  <p align="center">
+    <img width="624" height="659" alt="Vertical Wireframe Mockup Git" src="https://github.com/user-attachments/assets/3d0528b3-77ab-4b32-bd05-ddf266ee8b45" />
+  </p>
   - Texture atlases
   - LODs and batching
   - Frame rate management
