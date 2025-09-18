@@ -21,9 +21,8 @@ Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely p
 
 
 ### Unreal Engine & Blender Workflow Screenshots
-<p align="center">
-  <img src="C:\Users\B-PC\Desktop\Ill Fated Day Public Github Repo\Player 3D model Process.png" alt="3D Modelling process" width="300">
-</p>
+<img width="1030" height="456" alt="Player3DmodelProcess" src="https://github.com/user-attachments/assets/3e902395-f696-45b8-8f8d-b7a3a0ffef45" />
+
 
 ---
 
