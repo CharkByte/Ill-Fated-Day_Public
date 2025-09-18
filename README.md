@@ -13,7 +13,7 @@
 
 Ill Fated Day is a low poly retro mobile game that takes place in a dark gothic fantasy world. 
 
-Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely powerful fire mage who has stolen a deadly artifact.
+Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely powerful fire mage who has stolen a deadly artifact.
 
 ---
 
@@ -23,6 +23,7 @@ Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely p
 ### Unreal Engine & Blender Workflow Screenshots
 <img width="1030" height="456" alt="Player3DmodelProcess" src="https://github.com/user-attachments/assets/3e902395-f696-45b8-8f8d-b7a3a0ffef45" />
 
+<img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
 
 ---
 
