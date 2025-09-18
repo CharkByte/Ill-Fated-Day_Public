@@ -16,7 +16,7 @@
 
 Ill Fated Day is a solo developed retro mobile game that takes place in a dark gothic fantasy world. 
 
-Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an extremely powerful fire mage that has stolen a deadly artifact.
+Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an extremely powerful fire mage that has stolen a deadly magic artifact.
 
 ---
 
@@ -28,16 +28,15 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 <p align="center">
   <img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
 </p>
----
 
 ## Features & Mechanics
 
 - Core gameplay features:
-  - 3D player movement and interactivity
-  - 40 unique medieval weapons and 10 combat spells for unique gameplay
-  - Variable "Easy", "Normal", "Hard", "Challenge" difficulty levels
+  - 3D player movement and interactivity on mobile
+  - 40 medieval weapons and 10 combat spells for unique gameplay and combat
+  - Variable difficulty levels: "Easy", "Normal", "Hard", "Challenge"
   - Auto generated and randomized maze levels
-  - Random player status effect gameplay loop
+  - Randomized status effects and challenging gameplay
     
 - Mobile-specific optimizations and Layout:
   <p align="center">
@@ -67,8 +66,8 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 
 ## Progress & Future Plans
 
-- **In Progress:** 3d Weapons, 3d Enemies, Core animations, Core gameplay loop, level creation  
-- **Planned:** Unit Testing, Language implementations, optimization, monetization
+- **In Progress:** 3D player models, 3d weapons modeling, 3d enemy modeling, Player, weapons and enemy animations, Core gameplay loop, Maze generation creation, UI and menu logic, Sound effects and Music  
+- **Planned:** Unit Testing, Foreign Language Implementations, Mobile Optimizations, Mobile Monetizations, Cutscenes
 
 ---
 
