@@ -1,5 +1,7 @@
 <!-- Centered Project Title -->
-<h1 align="center">Ill Fated Day</h1>
+<p align="center">
+<img width="661" height="447" alt="GrimlandMapTitle" src="https://github.com/user-attachments/assets/72bc1fe7-b169-4d0c-8810-3ab8fbf7e4af" />
+</p>
 
 ---
 
@@ -9,9 +11,10 @@
 **Genre:** Roguelite Arcade  
 **Platform:** Android & IOS (Mobile)  
 **Art Style:** Low-poly 3D, Retro  
+**Developer:** Charkbyte                 
 **Game Description:**  
 
-Ill Fated Day is a low poly retro mobile game that takes place in a dark gothic fantasy world. 
+Ill Fated Day is a solo developed low poly retro mobile game that takes place in a dark gothic fantasy world. 
 
 Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely powerful fire mage who has stolen a deadly artifact.
 
