@@ -33,6 +33,7 @@ Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely p
   - Player movement and controls
   - Combat system
   - Variable Difficulty Level
+  - Ever changing gameplay
     
 - Mobile-specific optimizations:
   - Texture atlases
