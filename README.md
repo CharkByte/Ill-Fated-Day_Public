@@ -32,11 +32,12 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 ## Features & Mechanics
 
 - Core gameplay features:
-  - 3D player movement and interactivity on mobile
-  - 40 medieval weapons and 10 combat spells for unique gameplay and combat
-  - Variable difficulty levels: "Easy", "Normal", "Hard", "Challenge"
+  - 3D player movement and world interactivity on mobile
+  - 40 medieval weapons and 10 magic spells for unique combat
+  - 45 enemies and monsters with upgraded "shiny" variants
+  - Sliding difficulty based on phone time: "Easy", "Normal", "Hard", "Nightmare"
   - Auto generated and randomized maze levels
-  - Randomized status effects and challenging gameplay
+  - Randomized status effects for challenging gameplay
     
 - Mobile-specific optimizations and Layout:
   <p align="center">
@@ -66,8 +67,8 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 
 ## Progress & Future Plans
 
-- **In Progress:** 3D player models, 3d weapons modeling, 3d enemy modeling, Player, weapons and enemy animations, Core gameplay loop, Maze generation creation, UI and menu logic, Sound effects and Music  
-- **Planned:** Unit Testing, Foreign Language Implementations, Mobile Optimizations, Mobile Monetizations, Cutscenes
+- **In Progress:** 3D player models, 3d weapons modeling, 3d enemy modeling, weapons and enemy animations, core gameplay loop, maze generation logic, ui and menu logic, sound effects and music  
+- **Planned:** Unit testing, foreign language implementations, mobile optimizations, mobile monetizations, cutscenes
 
 ---
 
