@@ -60,7 +60,6 @@ Play as Royal Knight Gildenstern on a mission to stop Valorforce, an extremely p
 
 ## Progress & Future Plans
 
-- **Completed: Main Character 3D model** 
 - **In Progress:** 3d Weapons, 3d Enemies, Core animations, Core gameplay loop, level creation  
 - **Planned:** Unit Testing, Language implementations, optimization, monetization
 
