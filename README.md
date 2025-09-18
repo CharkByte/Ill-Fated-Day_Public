@@ -30,11 +30,11 @@ Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely p
 ## Features & Mechanics
 
 - Core gameplay features:
-  - Player movement and controls
-  - 40 unique weapons and 10 combat spell gameplay
+  - 3D player movement and interactivity
+  - 40 unique medieval weapons and 10 combat spells for unique gameplay
   - Variable "Easy", "Normal", "Hard", "Challenge" difficulty levels
-  - Auto generated maze levels
-  - Random status effect gameplay loop
+  - Auto generated and randomized maze levels
+  - Random player status effect gameplay loop
     
 - Mobile-specific optimizations and Layout:
   - <img width="624" height="659" alt="Vertical Wireframe Mockup Git" src="https://github.com/user-attachments/assets/3d0528b3-77ab-4b32-bd05-ddf266ee8b45" />
