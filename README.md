@@ -36,7 +36,8 @@ Play as royal knight Gildenstern on a mission to stop Valorforce, an extremely p
   - Auto generated maze levels
   - Random status effect gameplay loop
     
-- Mobile-specific optimizations:
+- Mobile-specific optimizations and Layout:
+  - <img width="624" height="659" alt="Vertical Wireframe Mockup Git" src="https://github.com/user-attachments/assets/3d0528b3-77ab-4b32-bd05-ddf266ee8b45" />
   - Texture atlases
   - LODs and batching
   - Frame rate management
