@@ -11,7 +11,7 @@
 **Genre:** Roguelite Arcade  
 **Platform:** Android & IOS (Mobile)  
 **Art Style:** Low-poly 3D, Retro  
-**Developer:** Charkbyte                 
+**Developer:** Bryant Galo                 
 **Game Description:**  
 
 Ill Fated Day is a solo developed retro mobile game that takes place in a dark gothic fantasy world. 
