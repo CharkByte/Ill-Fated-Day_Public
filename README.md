@@ -28,6 +28,9 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 <p align="center">
   <img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
 </p>
+<p align="center">
+  <img width="1920" height="1080" alt="Weapon Selection" src="https://github.com/user-attachments/assets/1e044df9-70b8-4d08-8086-6b46af1a4480" />
+</p>
 
 ## Features & Mechanics
 
