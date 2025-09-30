@@ -31,7 +31,9 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 <p align="center">
   <img width="1920" height="1080" alt="Weapon Selection" src="https://github.com/user-attachments/assets/1e044df9-70b8-4d08-8086-6b46af1a4480" />
 </p>
-
+<p align="center">
+  <img width="700" height="350" alt="50Curses" src="https://github.com/user-attachments/assets/ebd5124f-db89-4802-8be0-aa7697aa4a18" />
+</p>
 ## Features & Mechanics
 
 - Core gameplay features:
@@ -40,7 +42,7 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
   - 45 enemies and monsters with upgraded "shiny" variants
   - Sliding difficulty based on phone time: "Easy", "Normal", "Hard", "Nightmare"
   - Auto generated and randomized maze levels
-  - Randomized status effects for challenging gameplay
+  - 50 randomized status effects for challenging gameplay
     
 - Mobile-specific optimizations and Layout:
   <p align="center">
