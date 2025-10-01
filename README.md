@@ -51,7 +51,7 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
     
 - Mobile-specific optimizations and Layout:
   <p align="center">
-    <img width="624" height="659" alt="Vertical Wireframe Mockup Git" src="https://github.com/user-attachments/assets/3d0528b3-77ab-4b32-bd05-ddf266ee8b45" />
+    <img width="624" height="659" alt="VerticalWireframe" src="https://github.com/user-attachments/assets/6f832804-d258-4e5a-846a-81432f7fa6c7" />
   </p>
   - Texture atlases
   - LODs and batching
