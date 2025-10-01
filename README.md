@@ -34,15 +34,16 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 <p align="center">
   <img width="700" height="350" alt="50Curses" src="https://github.com/user-attachments/assets/ebd5124f-db89-4802-8be0-aa7697aa4a18" />
 </p>
+
 ## Features & Mechanics
 
 - Core gameplay features:
-  - 3D player movement and world interactivity on mobile
-  - 40 medieval weapons and 10 magic spells for unique combat
-  - 45 enemies and monsters with upgraded "shiny" variants
-  - Sliding difficulty based on phone time: "Easy", "Normal", "Hard", "Nightmare"
-  - Auto generated and randomized maze levels
-  - 50 randomized status effects for challenging gameplay
+  - 3D player movement and gameplay interactivity on mobile
+  - 40 unique weapons and 10 magic spells for strategic combat
+  - 45 enemies and monsters with "shiny" upgrade variants
+  - Sliding difficulty based on time of day: "Easy", "Normal", "Hard", "Nightmare"
+  - Auto generated and randomized mazes for infinite replay value
+  - 50 randomized curses with unique status effects
     
 - Mobile-specific optimizations and Layout:
   <p align="center">
