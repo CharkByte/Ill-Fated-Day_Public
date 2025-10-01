@@ -1,6 +1,7 @@
 <!-- Centered Project Title -->
 <p align="center">
-<img width="661" height="447" alt="GrimlandMapTitle" src="https://github.com/user-attachments/assets/72bc1fe7-b169-4d0c-8810-3ab8fbf7e4af" />
+  <img width="661" height="447" alt="IFD Logo Screen" src="https://github.com/user-attachments/assets/1cb94181-3531-4f2f-83e4-5a0a44df903a" />
+
 </p>
 
 ---
@@ -24,15 +25,18 @@ Play as royal knight Gildenstern on a dangerous mission to stop Valorforce, an e
 
 
 ### Unreal Engine & Blender Workflow Screenshots
-<img width="1030" height="456" alt="Player3DmodelProcess" src="https://github.com/user-attachments/assets/3e902395-f696-45b8-8f8d-b7a3a0ffef45" />
 <p align="center">
-  <img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/b8a8fd9c-0526-4373-8722-e3a39a4c200f" />
+  <img width="678" height="300" alt="Player3DmodelProcess" src="https://github.com/user-attachments/assets/89e806ad-6827-47c4-94c4-0309331ca9d2" />
+</p>
+
+<p align="center">
+  <img width="551" height="550" alt="EnemyDesign" src="https://github.com/user-attachments/assets/53bb629d-c3b2-4f1e-9290-ae52d65067a4" />
 </p>
 <p align="center">
-  <img width="1920" height="1080" alt="Weapon Selection" src="https://github.com/user-attachments/assets/1e044df9-70b8-4d08-8086-6b46af1a4480" />
+  <img width="700" height="394" alt="Weapon Selection" src="https://github.com/user-attachments/assets/441a0eb1-fb98-4496-8cab-6affbdb8b4b6" />
 </p>
 <p align="center">
-  <img width="700" height="350" alt="50Curses" src="https://github.com/user-attachments/assets/ebd5124f-db89-4802-8be0-aa7697aa4a18" />
+  <img width="700" height="350" alt="50Curses" src="https://github.com/user-attachments/assets/b64c1d3d-ad59-4903-b401-1f26ca6f168f" />
 </p>
 
 ## Features & Mechanics
